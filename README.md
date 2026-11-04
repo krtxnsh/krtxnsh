@@ -135,8 +135,8 @@ Outside of code, I design in Figma and edit video in Premiere Pro, which helps m
 
 I use LeetCode to keep my problem-solving sharp: patterns first, speed second.
 
-<a href="https://leetcode.com/u/REPLACE_LEETCODE_USERNAME">
-  <img src="https://leetcard.jacoblin.cool/REPLACE_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="85%" />
+<a href="https://leetcode.com/u/kritansh3">
+  <img src="https://leetcard.jacoblin.cool/kritansh3?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="85%" />
 </a>
 
 </div>
@@ -158,11 +158,11 @@ I use LeetCode to keep my problem-solving sharp: patterns first, speed second.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/REPLACE_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/REPLACE_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" /></a>
-<a href="mailto:REPLACE_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
-<a href="https://leetcode.com/u/REPLACE_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" alt="LeetCode" /></a>
-<a href="https://REPLACE_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kritansh-chilwal-90b399364"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/krtxnsh"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" /></a>
+<a href="mailto:kritanshchilwal@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+<a href="https://leetcode.com/u/kritansh3"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" alt="LeetCode" /></a>
+<a href="https://kritansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
